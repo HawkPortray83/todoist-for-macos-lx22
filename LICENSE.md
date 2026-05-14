@@ -1,4 +1,4 @@
-#  
+#  automatic Todoist for macOS Integration | auto-sync + markdown support is the best Todoist for macOS integration, featuring auto-sync and markdown support. Safe, efficient, and
 
 
 
